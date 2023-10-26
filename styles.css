@@ -25,6 +25,7 @@ body {
   align-items: center;
   font-size: 30px;
   font-weight: bold;
+  
 
 }
 
@@ -96,4 +97,11 @@ h2{
   font-weight: bolder;
   font-size: 40px;
   text-align:center;
+}
+
+.cats-photo{
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  
 }
