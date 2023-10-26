@@ -105,3 +105,29 @@ h2{
   height: 500px;
   
 }
+
+.review{
+  font-weight: bold;
+  font-size: 30px;
+  color: gold;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  flex-direction: column;
+
+}
+
+.rev{
+  height:60px;
+  border-radius: 50px;
+}
+
+.star{
+  height: 50px;
+}
+
+.img-rev .massage{
+  color: white;
+  font-size: 15px;
+}
+
