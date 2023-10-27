@@ -25,6 +25,8 @@ body {
   align-items: center;
   font-size: 30px;
   font-weight: bold;
+  flex-wrap: wrap;
+ 
   
 
 }
@@ -37,6 +39,7 @@ ul{
   list-style-type: none;
   display: flex;
   gap: 35px;
+  flex-wrap: wrap;
 }
 
 a{
@@ -80,6 +83,7 @@ h2{
   margin: auto;
   width: 50%;
   display: flex;
+  flex-wrap: wrap;
 }
 .offline{
   color: red;
@@ -90,6 +94,7 @@ h2{
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
+  flex-wrap: wrap;
 }
 
 .main-price{
@@ -103,6 +108,7 @@ h2{
   display: flex;
   justify-content: center;
   height: 500px;
+  flex-wrap: wrap;
   
 }
 
